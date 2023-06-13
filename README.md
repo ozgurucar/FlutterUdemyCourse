@@ -1,6 +1,6 @@
 # first_app
 
-A new Flutter project.
+This is my project to learn from Udemy
 
 ## Getting Started
 
